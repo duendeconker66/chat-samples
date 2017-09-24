@@ -12,9 +12,9 @@ or in the "license" file accompanying this file. This file is distributed on an 
 */
 
 var chatClient = function chatClient(options){
-    this.username = options.username;
-    this.password = options.password;
-    this.channel = options.channel;
+    this.duendeconker66 = options.username;
+    this.duendeconker66 = options.password;
+    this.duendeconker66 = options.channel;
 
     this.server = 'irc-ws.chat.twitch.tv';
     this.port = 443;
